@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="GPq3sM7vdI_z65m-9mLe">
-    <mxGraphModel dx="1414" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,16 +11,16 @@
           <mxGeometry height="62.400000000000006" width="62.400000000000006" x="60" y="100" as="geometry" />
         </mxCell>
         <mxCell id="7Bu9LkUPy4DyS7fMcdcl-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;center&quot;&gt;Рабочие места пользователей&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="60" y="60" as="geometry" />
+          <mxGeometry height="30" width="60" x="60" y="50" as="geometry" />
         </mxCell>
         <mxCell id="7Bu9LkUPy4DyS7fMcdcl-3" parent="1" style="image;aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;points=[[0.5,0.098,0],[0.5,0.902,0],[0,0.383,0],[0.999,0.499,0],[0.992,0.789,0],[0.005,0.559,0],[0.003,0.211,0]];labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="67.2" width="77.4" x="230" y="100" as="geometry" />
+          <mxGeometry height="67.2" width="77.4" x="230" y="95.2" as="geometry" />
         </mxCell>
         <mxCell id="7Bu9LkUPy4DyS7fMcdcl-4" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/kubernetes/1/ing.svg;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="290" y="150" as="geometry" />
         </mxCell>
         <mxCell id="7Bu9LkUPy4DyS7fMcdcl-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Nginx Load Balancer, Zabbix server&lt;/div&gt;192.168.0.111" vertex="1">
-          <mxGeometry height="30" width="60" x="230" y="60" as="geometry" />
+          <mxGeometry height="30" width="60" x="230" y="50" as="geometry" />
         </mxCell>
         <mxCell id="7Bu9LkUPy4DyS7fMcdcl-8" parent="1" style="image;aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;points=[[0.5,0.098,0],[0.5,0.902,0],[0,0.383,0],[0.999,0.499,0],[0.992,0.789,0],[0.005,0.559,0],[0.003,0.211,0]];labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="67.2" width="77.4" x="450.6" y="110" as="geometry" />
@@ -84,13 +84,13 @@
             <mxPoint x="12" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Bu9LkUPy4DyS7fMcdcl-36" edge="1" parent="1" source="7Bu9LkUPy4DyS7fMcdcl-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=1;exitY=0.578;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.005;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;" target="7Bu9LkUPy4DyS7fMcdcl-3" value="">
+        <mxCell id="7Bu9LkUPy4DyS7fMcdcl-36" edge="1" parent="1" source="7Bu9LkUPy4DyS7fMcdcl-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=1.007;exitY=0.511;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.005;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;" target="7Bu9LkUPy4DyS7fMcdcl-3" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="450" y="240" as="sourcePoint" />
             <mxPoint x="500" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Bu9LkUPy4DyS7fMcdcl-37" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0;entryY=0.5;entryDx=0;entryDy=10;entryPerimeter=0;" target="7Bu9LkUPy4DyS7fMcdcl-16" value="">
+        <mxCell id="7Bu9LkUPy4DyS7fMcdcl-37" edge="1" parent="1" source="7Bu9LkUPy4DyS7fMcdcl-3" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0;entryY=0.5;entryDx=0;entryDy=10;entryPerimeter=0;exitX=1.047;exitY=0.598;exitDx=0;exitDy=0;exitPerimeter=0;" target="7Bu9LkUPy4DyS7fMcdcl-16" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="310" y="140" as="sourcePoint" />
             <mxPoint x="500" y="190" as="targetPoint" />
